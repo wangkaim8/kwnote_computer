@@ -26,6 +26,11 @@ Basic commands
      # Recover back
      git stash pop
 
+     # Add .gitignore
+     git rm -rf --cached .
+     git add .gitignore
+
+
 Remove commits before specific commit
 -------------------------------------
 
