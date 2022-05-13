@@ -17,7 +17,7 @@ Basic commands
      # Check url of remote repository:
      git remote -v
      # Change remote repository:
-     git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+     git remote set-url origin https://USERNAME@gitlab.com/USERNAME/REPOSITORY.git
      # PUSH a local branch to remote branch
      git push <remote> <local_branch>:<remote_name>
      

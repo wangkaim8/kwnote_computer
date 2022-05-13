@@ -19,5 +19,5 @@ The configure fails with:
  $: checking for mpi.h... no
  $: configure: error: MPI header not found; try setting MPI_INC.
 
-Solve the problem by
+Solve the problem by install openmpi from the source.
 
